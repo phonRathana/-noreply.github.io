@@ -73,7 +73,7 @@
                     	<div class="row">
                     		<div class="col-md-4 mx-auto">
                           <img
- src="https://httpsrathanaphonwebsitecoin/landing/img/logo_color_116x41dp.png"                         
+ src="https://httpsrathanaphonwebsite.co.in/landing/img/logo_color_116x41dp.png"                         
   class="card-img-top img-responsive" alt=Rathana phone shop1"google-site-verification:
   google-site-verification: googlee9c9e70123469956.html
                               </div>
@@ -82,7 +82,7 @@
                    		<h5 class="card-title">Website Subscription Expired</h5>
                       		<p class="card-text">
                            Your subscription period has now expired. To continue to use
- websites./https://httpsrathanaphonwebsitecoin/-"Buy Subscription" below, or for more info  
+ websites./https://httpsrathanaphonwebsite.co.in/-"Buy Subscription" below, or for more info  
                          "description": "Business As a loyal partner sell technology",
                      	Buy Subcription
                    </a>
