@@ -45,6 +45,8 @@
            <p>Anytown, Phnom Penh </p>
            <p>Phone: (085883923) </p>
            <p>Email: info@rathanaphone29@gmail.com</p>
+        <link rel="icon"
+         
      </main>
       <footer>
     	<meta name="viewport" content="width=device-width, initial-scale=1">
