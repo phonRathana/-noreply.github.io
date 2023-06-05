@@ -1,50 +1,147 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    </head><haed>
-              </head><haed>
-                ("hello the world ")
-    <title>Rathana phone Shop1</title>  
-  <meta charset="utf-8">
-  <meta name="google-site-verification" content="6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/>
-  <meta name="google.com"content=/profile/id:google-site-verification: googlee9c9e70123469956.html
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap>rel="stylesheet">
-	  <link rel="stylesheet" href="css/custom.css">
+    <title>Rathana Phone Shop1</title>
+    <meta name="google-site-verification" content="6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+    /* Style your website here */
+      body {
+         <link rel="stylesheet" href="css/custom.css"> 
+   </head> 
+   <body> 
+     <div class="top-bar"> 
+       <div class="bar-left"> 
+         <div class="menu"> 
+           <a href="">About</a> 
+           <a href="">Shop</a> 
+         </div> 
+       </div> 
+       <div class="bar-right"> 
+         <div class="menu"> 
+           <a href="">Gmail</a> 
+           <a href="">Images</a> 
+         </div> 
+         <a href="" class="app-toggle"> 
+           <i class="fa fa-ellipsis-h"></i> 
+         </a> 
+         <a href="" class="profile-trigger"> 
+           <img src="images/profile.jpg"> 
+         </a> 
+       </div> 
+     </div> 
+     <div class="content"> 
+       <div class="search-wrapper"> 
+         <a href="" class="search-logo">
+                      <img src="images/logo-Rathana phone shop1-"> 
+         </a> 
+         <div class="search-bar"> 
+           <div class="search-icon"> 
+             <i class="fa fa-search"></i> 
+           </div> 
+           <input type="text"> 
+           <div class="search-icon right"> 
+             <i class="fa fa-microphone"></i> 
+           </div> 
+         </div>
+                 </a> 
+         <div class="search-bar"> 
+           <div class="search-icon"> 
+             <i class="fa fa-search"></i> 
+           </div> 
+           <input type="text"> 
+           <div class="search-icon right"> 
+             <i class="fa fa-microphone"></i> 
+           </div> 
+         </div> 
+         <div class="search-buttons"> 
+           <a href="">Rathana phone Shop1 Search</a> 
+           <a href="">I'm Feeling Lucky</a> 
+         </div> 
+         <p class="search-info"> 
+           This is a search bar. <a href="">Random Link</a> 
+         </p> 
+       </div> 
+     </div> 
+     <div class="bottom-bar"> 
+       <div class="bar-left"> 
+         <div class="menu"> 
+           <a href="">Advertising</a> 
+           <a href="">Business</a> 
+           <a href="">How Search Works</a> 
+         </div> 
+       </div>
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Rathana Phone Shop1</h1>
+    </header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Phones</a>
+      <a href="#">Accessories</a>
+      <a href="#">Contact</a>
+    </nav>
+    <main>
+      <h2>Welcome to Rathana Phone Shop1</h2>
+      <p>We offer a wide selection of the latest smartphones and accessories from all the major brands. Our knowledgeable staff can help you find the perfect device to fit your needs and budget.</p>
+      <h3>Featured Products</h3>
+      
+        <h3>Contact Us</h3>
+      <p>Visit us at:</p>
+      <p>123 Main St.</p>
+      <p>Anytown, Phnom Penh </p>
+      <p>Phone: (085883923) </p>
+      <p>Email: info@rathanaphone29@gmail.com</p>
+    </main>
+    <footer>
+      <p>&copy; 2023 Rathana Phone Shop1 All rights reserved.</p>
+        <li>Apple iPhone 12 Pro</li>
+        <li>OnePlus 9 Pro</li>
+      </ul>
+          </div> 
+       </div> 
+       <div class="bar-right"> 
+         <div class="menu"> 
+           <a href="">Privacy</a> 
+           <a href="">Terms</a> 
+           <a href="">Settings</a> 
+         </div> 
+       </div> 
+     </div> 
+   </body> 
+ </html>
 
-	    <!-- Fancybox API -->
-		<link media="none" onload="if(media!='all')media='all'"rel="stylesheet"
-		href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-		<meta name="gongle-signin-client-id" content="google-site-verification:mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",       "
-		"android_client_info": {apps.googleusercontent.com">
+	
 
-		<meta name="google-signin-scope"  contents proprofilefile  email=""
-		https://www.googleapis.com/auth/developerprofileshttps://www.googleapis.com/auth/developerprofiles.award reta property="og site name" content="google.com/"
-		google-site-verification: googlee9c9e70123469956.html
-    to property="og:type" content="website"meta name="theme-color" wm #8098ff
-    000 ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport"
-	  content="width=device-width, initial-profileinitial-profile "
-	  <meta name="document-type" content="Public">
-    <meta name="document-rating" content="Safe for Kids">
-    <meta name="googlebot" content="index, follow">
+	
 
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-        <link rel="apple-touch-icon" href="https://httpsrathanaphonwebsite.co.in/files/971938/favicon/favicon.png?v=528721588"/>
-    <meta name="theme-color" content="#FFFFFF">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum"
-    <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
-    <meta name="description" content="Business As a loyal partner sell technology">
-    <meta name="author" content="Rathana phone Shop1">
-    <meta name="keywords" content=",Rathana phone Shop1 in Phnom Penh, in OTHER RETAIL">
-           "description": "Business As a loyal partner sell technology",
-           <h3>Contact Us</h3>
-           <p>Visit us at:</p>
-           <p>Dangkor Dangkor st5.</p>
-           <p>Anytown, Phnom Penh </p>
-           <p>Phone: (085883923) </p>
-           <p>Email: info@rathanaphone29@gmail.com</p>
+  
+
+	 
+	 
+   
+    
+
+  
+  
+      
+   
+   
+  
+    
+   
+   
+        
+          
+         
+         
+         
+          
+          
       
          
      
