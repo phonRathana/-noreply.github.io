@@ -14,10 +14,10 @@
      margin-bottom: 20px;
  }
   img {
-     width: 30%;
+     width: 50%;
      height: auto;
  }
-  .logo > img {
+  logo-img {
      font-size:50px;
  }  
     
