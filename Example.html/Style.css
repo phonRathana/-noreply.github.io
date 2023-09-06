@@ -1,0 +1,22 @@
+ * {
+     box-sizing: border-box;
+ }
+   html body h1 {
+     margin: 0%;
+     color:blue;
+     text-align: center;
+ }
+ .image-container {
+      margin: auto;
+      width: 70%;
+      box-shadow: 0 10px 20px (0,0,0,0.10);        
+      margin-bottom: 15px;
+}
+   img {
+    width: 400px;
+    height: 450px;
+    box-shadow: inset;
+}
+    logo logo-imag {
+     font-size: auto;
+}
