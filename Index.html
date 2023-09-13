@@ -1,5 +1,45 @@
+<head>
+ ...
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', 'GT-XXXXXX');
+  gtag('config', 'DC-ZZZZZZ');
+</script>
+</head>
 
 
+<head>
+   ...
+   /* 1. Initialize the Google tag and gtag.js library */
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=TAG_ID"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments)};
+     gtag('js', new Date());
+     gtag('config', 'TAG_ID');
+   </script>
+</head>
+
+<body>
+   <script>
+     let date = Date.now();
+     /* 2. Define your event. */
+     function newsletterSignup() {
+       gtag('event', 'newsletter_signup', {
+       'time': date,
+       });
+   }
+   </script>
+   ...
+   /* 3. Trigger your event */
+   <button type="submit" onlick="newsletterSignup()">Sign me up!</button>
+   ...
+</body>
  
   
 
