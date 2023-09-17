@@ -95,12 +95,12 @@ header a {
     color:#fffff; 
     background-color:#e8491d; 
     text-align: center; 
-   } 
-    newsletter button, .quote button { 
-     display:block; 
-     width:100%; 
-   } 
-    newsletter form input[type="email"], .quote input, .quote textarea { 
-      width:100%; 
-      margin-bottom:5px; 
-   }
+ } 
+  newsletter button, .quote button { 
+   display:block; 
+   width:100%; 
+ } 
+  newsletter form input[type="email"], .quote input, .quote textarea { 
+   width:100%; 
+   margin-bottom:5px; 
+ }
