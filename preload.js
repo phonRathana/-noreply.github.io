@@ -7,6 +7,10 @@ body{
    width:80%;
    margin:auto;
    overflow:hidden;
+} 
+ ul {
+   height:0px; 
+   width:0px; 
 }
 .button_1 {
    height:30px;
