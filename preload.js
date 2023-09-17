@@ -64,16 +64,16 @@ header a {
    font-weight:bold; 
  } 
  newsletter { 
-    padding:15px; 
-    color:#ffffff; 
-    background:#35424a; 
-  } 
+  padding:15px; 
+  color:#ffffff; 
+  background:#35424a; 
+ } 
   newsletter h1 { 
-    float:left; 
+   float:left; 
  } 
   newsletter form { 
-    float:right; 
-    margin-top:15px; 
+   float:right; 
+   margin-top:15px; 
   } 
    newsletter input[type="email"]{ 
     padding:4px; 
